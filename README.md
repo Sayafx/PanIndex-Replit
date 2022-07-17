@@ -5,6 +5,7 @@ Replit创建Bash语言，shell中输入
 `git clone https://github.com/Sayafx/PanIndex-Replit.git && mv -b PanIndex-Replit/* ./ && mv -b PanIndex-Replit/.[^.]* ./ && rm -rf *~ && rm -rf PanIndex-Replit
 `
 回车等待输出完毕
+输入`sh install.sh`回车等待输出完毕
 ```
  ____   __    _  _  ____  _  _  ____  ____  _  _ 
 (  _ \ /__\  ( \( )(_  _)( \( )(  _ \( ___)( \/ )
